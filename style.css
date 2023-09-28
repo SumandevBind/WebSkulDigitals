@@ -1,0 +1,21 @@
+#todo-container,h1
+{
+    text-align: center;
+}
+
+#add-task
+{
+    background: purple;
+    color: #fff;
+    /* text-align: center; */
+
+}
+
+#task-list
+{
+    /* position: relative; */
+    position: fixed;
+    text-align: center;
+    left: 580px;
+    
+}
